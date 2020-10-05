@@ -23,7 +23,7 @@
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/Fridaybot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/-ANYDLBOT)
 
 #### The Hard Way
 
